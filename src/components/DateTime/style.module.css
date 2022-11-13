@@ -1,0 +1,15 @@
+.dateTime {
+  width: 27vw;
+  border: 2px solid black;
+  font-size: 1.5rem;
+  padding: 1vw;
+}
+
+.dateTime__time {
+  font-weight: 700;
+}
+
+.dateTime__date {
+  margin-left: 1vw;
+  font-style: italic;
+}

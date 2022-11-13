@@ -1,0 +1,18 @@
+.cosmonaut {
+  padding: 1vw;
+  border: 2px solid black;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 20% 1fr;
+  /* justify-items: center; */
+  align-items: center;
+  gap: 5%;
+}
+
+.cosmonaut__avatar {
+
+}
+
+.cosmonaut__name {
+
+}

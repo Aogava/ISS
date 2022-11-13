@@ -1,0 +1,15 @@
+.coordinates {
+  width: 70vw;
+  border: 2px solid black;
+  font-size: 1.5rem;
+  padding: 1vw;
+}
+
+.coordinates__header {
+  font-weight: 700;
+}
+
+.coordinates__numbers {
+  margin-left: 1vw;
+  font-style: italic;
+}

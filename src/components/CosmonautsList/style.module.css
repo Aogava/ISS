@@ -1,0 +1,22 @@
+.list {
+  width: 27vw;
+  height: 80vh;
+  border: 2px solid black;
+  font-size: 1.5rem;
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+
+.list__cosmonauts {
+  padding: 1vw;
+  display: grid;
+  grid-auto-flow: row;
+  gap: 1vw;
+  overflow: auto;
+}
+
+.list__amount {
+  width: 100%;
+  padding: 1vw;
+  border-top: 2px solid black;
+}
